@@ -1,0 +1,24 @@
+1. Definations:
+
+	Given : Always represents Prerequisite for testcase
+	When : Always represents Actions to be performed by Actor/User for performing test case
+	Then : Always represents Verification or out come of the action performed by Actor/User	
+	And : Used to add two or more When/Then (steps/verification) statements in single go.
+
+Following guidelines to be followed for writing Test cases
+	1. Every Testcase should be grouped under 'Feature'
+	2. Testcase Name should represent Objective of Respective Testcase
+	3. Prerequisite: should always start with 'Given'
+	4. Navigation Key: This represents steps to navigate to Prerequisite
+	5. Description : Define clear objective of testcase. Also include any asumptions that testcase assumes
+	5. Steps : Should start with 'When'. If there are more than one step then all the subsequent steps should start with 'And' on new line
+	6. Expected result: Should Start with 'Then'. If there are more than one Verification for respective step then all the subsequent verifications should start with 'And' on new line
+	
+	7. When stetament secentance can be formed with below general logic
+		Who is performing Action + What Action + Which Object + Any Input Data to be passed. 
+		
+	8. Then statement secentance can be formed with below general logic
+		""Verify" + Which Object to verify +  What To Verify + Expected Data. 
+
+	9. Put all the Notes in square bracket as [Note: Some note...]
+	
