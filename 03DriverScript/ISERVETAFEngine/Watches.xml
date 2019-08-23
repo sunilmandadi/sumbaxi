@@ -1,3 +1,5 @@
 ﻿<Properties>
-  <WatchEntry0 value="strCreditAccntNo" />
+  <WatchEntry0 value="strTestCase" />
+  <WatchEntry1 value="strKWSheetPath" />
+  <WatchEntry2 value="bExecKeywords" />
 </Properties>
