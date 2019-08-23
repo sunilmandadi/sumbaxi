@@ -1,1 +1,0 @@
-﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'F:\\iservetaf\\03DriverScript\\ISERVETAFEngine\\Res1',namePairs:[]}]};
