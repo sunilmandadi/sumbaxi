@@ -1,5 +1,5 @@
 ﻿<Properties>
-  <WatchEntry0 value="strTestCase" />
-  <WatchEntry1 value="strKWSheetPath" />
-  <WatchEntry2 value="bExecKeywords" />
+  <WatchEntry0 value="ReadyState" />
+  <WatchEntry1 value="Browser(&quot;index:=0&quot;)" />
+  <WatchEntry2 value="Browser(&quot;index:=0&quot;).Object.ReadyState" />
 </Properties>
