@@ -1,3 +1,3 @@
-Feature:Test1_Bookmyshow_Mumbai
+Feature:Test1_Bookmyshow_Ahmedabad
 
 Scenario:TC001_VerifyBookmyshowBasicNavigation

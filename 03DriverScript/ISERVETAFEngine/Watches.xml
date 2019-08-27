@@ -1,5 +1,6 @@
 ﻿<Properties>
-  <WatchEntry0 value="ReadyState" />
-  <WatchEntry1 value="Browser(&quot;index:=0&quot;)" />
-  <WatchEntry2 value="Browser(&quot;index:=0&quot;).Object.ReadyState" />
+  <WatchEntry0 value="SyncBrowser" />
+  <WatchEntry1 value="WaitForBrowserReady" />
+  <WatchEntry2 value="Browser(&quot;index:=0&quot;).Sync" />
+  <WatchEntry3 value="Wait(iPageWaitTime)" />
 </Properties>
